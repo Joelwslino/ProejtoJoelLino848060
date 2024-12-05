@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: rgb(238, 232, 232);
 }
 
 /* Menu fixo */
@@ -12,7 +12,7 @@ nav {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #333;
+    background-color: #200486;
     color: white;
     padding: 10px 0;
 }
@@ -37,7 +37,7 @@ nav ul li a {
 .content {
     margin-top: 60px; /* Espaço para o menu fixo */
     padding: 20px;
-    background-color: white;
+    background-color: rgb(238, 232, 232);
 }
 
 h1 {
